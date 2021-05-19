@@ -1,7 +1,7 @@
 # India Today News App
 
 A News App made using Flutter. 
-Download the App from :- https://drive.google.com/file/d/1lkwB4HacVLL0vvhPsn1TQFqFNLUB_tdv/view?usp=sharing
+Download the App from :- https://drive.google.com/file/d/1RoubCeVXPyTO6c-Wrol0qN8vbbgAPasV/view?usp=sharing
 
 # About
  Build an Android App Using Googles Cross Platform SDK called FLutter. FLutter uses Dart as it language as it fast. Some features of the App are displaying top Indian News from top News sources, users ka can filter news by category like sports, technology etc and users can also search for top news by typing news Keywords fo example Doge Coin.
