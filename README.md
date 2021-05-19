@@ -21,6 +21,8 @@ Download the App from :- https://drive.google.com/file/d/1lkwB4HacVLL0vvhPsn1TQF
 <img src="screenshots/DogeCoinSearchResults.jpeg" alt="chat image" align="left" width="200" hspace="10" vspace="10"/>
 <img src="screenshots/webView.jpeg" alt="ChatActivity image" align="center" width="200" hspace="10" vspace="10" />
 
+# Note
+Some depenndencies might be deprecated if u are using Flutter 2.0. So just migrate it and upadate the pubspec,yaml file
 
 ## Getting Started With Flutter 
 
