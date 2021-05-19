@@ -11,15 +11,15 @@ Download the App from :- https://drive.google.com/file/d/1lkwB4HacVLL0vvhPsn1TQF
  
  # Libraries Used
  Used some Flutter Packages to accomplish this App:
- WebView_Flutter
- Cached_Network_Image
+ - WebView_Flutter
+ - Cached_Network_Image
 
 # Screenshots
 <img src="screenshots/homePage.jpeg" alt="login image" align="left" width="200" hspace="10" vspace="10"  />
-<img src="screenshots/homePage.jpeg" alt="signUp image" align="center" width="200" hspace="10" vspace="10"  />
-<img src="screenshots/homePage.jpeg" alt="profile image" align="left" width="200"  hspace="10" vspace="10" />
-<img src="screenshots/homePage.jpeg" alt="chat image" align="left" width="200" hspace="10" vspace="10"/>
-<img src="screenshots/homePage.jpeg" alt="ChatActivity image" align="center" width="200" hspace="10" vspace="10" />
+<img src="screenshots/TechnologyCategory.jpeg" alt="signUp image" align="center" width="200" hspace="10" vspace="10"  />
+<img src="screenshots/teslaSearchResults.jpeg" alt="profile image" align="left" width="200"  hspace="10" vspace="10" />
+<img src="screenshots/DogeCoinSearchResults.jpeg" alt="chat image" align="left" width="200" hspace="10" vspace="10"/>
+<img src="screenshots/webView.jpeg" alt="ChatActivity image" align="center" width="200" hspace="10" vspace="10" />
 
 
 ## Getting Started With Flutter 
